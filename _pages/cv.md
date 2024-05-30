@@ -20,7 +20,6 @@ Work experience
 * 2017 – 2021, Lecturer in Statistics, Massey University
 * 2015 – 2016, Research Assistant (Part-time), City University of Hong Kong 
 
-  
 Awards
 ======
 * 2023, Worsley Early Career Award, New Zealand Statistical Association (NZSA)
@@ -49,9 +48,11 @@ To be updated
 Teaching
 ======
 
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
- {% endfor %}</ul>
+To be updated
+
+<!--- <ul>{% for post in site.teaching reversed %}--->
+<!---  {% include archive-single-cv.html %}--->
+<!--- {% endfor %}</ul>--->
   
 Service and leadership
 ======
