@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "At Otago"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/otago
+venue: "Campus"
+date: 2021
+location: "University of Otago"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Undergraduate level 
 
-Heading 1
-======
+  - STAT110 Statistical Methods 2024
+  -	STAT210 Applied Statistics	2023
+  -	STAT260 Visualisation and Modelling in R	2022,2023,2024
+  -	STAT310 Statistical Modelling 2022
 
-Heading 2
-======
+* Graduate level
 
-Heading 3
-======
+  - STAT401 Applied Statistical Methods and Models 2022,2023,2024
+  -	STAT402 Regression Models for Complex Data 2022,2023,2024
+  -	STAT412 Generalised Linear Models 2021	 
+  -	INFO420 Statistical Techniques for Data Science 2021,2022,2023,2024	
