@@ -1,6 +1,12 @@
+---
+title: "At CityU"
+collection: teaching
+permalink: /teaching/cityu
+venue: "City University of Hong Kong"
+date: 2021-present
+location: "Hong Kong"
+---
 
-**At CityU**
-======
 
 * Undergraduate level
 
