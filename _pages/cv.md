@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, Systems Engineering and Engineering Managment, City University of Hong Kong, 2016
+* B.S. in Statistics, University of Science and Technology of China, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021 – present, Lecturer in Statistics, University of Otago
+* 2017 – 2021, Lecturer in Statistics, Massey University
+* 2015 – 2016, Research Assistant (Part-time), City University of Hong Kong 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023, Worsley Early Career Award, New Zealand Statistical Association (NZSA)
+* 2023, Best Paper Award, The 2nd International Workshop on Statistical Theory and Related Fields, July 2023, Tianjin, China
+* 2016, Visiting Postdoc Scholarship, Luleå University of Technology
+* 2013, Outstanding Paper Award, The IEEE International Conference on Industrial Engineering and Engineering Management 2013, Dec. 2013, Bangkok, Thailand
+* 2011 – 2015, City University of Hong Kong PhD Scholarship
+* 2007&2008, USTC Outstanding Undergraduate Scholarship
 
 Publications
 ======
@@ -49,16 +38,18 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+To be updated
+<!--- <ul>{% for post in site.talks reversed %} --->
+<!---   {% include archive-single-talk-cv.html  %} --->
+<!---  {% endfor %}</ul> --->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+
+ <ul>{% for post in site.teaching reversed %}
+   {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*  Convenor of Otago Statistics Seminars
