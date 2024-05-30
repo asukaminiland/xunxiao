@@ -2,9 +2,9 @@
 title: "At Massey"
 collection: teaching
 permalink: /teaching/massey
-venue: "Manawatu Campus"
+venue: "Massey University"
 date: 2017-2021
-location: "Massey University"
+location: "Palmerston North"
 ---
 
 * Undergraduate level 
