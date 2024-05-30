@@ -2,9 +2,9 @@
 title: "At Otago"
 collection: teaching
 permalink: /teaching/otago
-venue: "Dunedin Campus"
+venue: "University of Otago"
 date: 2021-present
-location: "University of Otago"
+location: "Dunedin"
 ---
 
 * Undergraduate level 
