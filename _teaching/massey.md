@@ -1,7 +1,6 @@
 ---
 title: "At Massey"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/massey
 venue: "Manawatu Campus"
 date: 2017-2021
