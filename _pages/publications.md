@@ -51,8 +51,8 @@ author_profile: true
 ## Food Science
 - Xun Xiao, Mo Li (2022) Fusion of Data-driven Model and Mechanistic Model for Kiwifruit Flesh Firmness Prediction. Computers and Electronics in Agriculture 193, 106651.
 
-#{% include base_path %}
+<!--{% include base_path %}-->
 
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+<!--{% for post in site.publications reversed %}-->
+<!--  {% include archive-single.html %}-->
+<!--{% endfor %}-->
