@@ -14,7 +14,7 @@ author_profile: true
 **co-first authorship**
 
 ## Industrial Statistics
-- Xun Xiao, Zhisheng Ye, Matthiew Revie (2024), Learning Local Cascading Failure Pattern from Massive Network Failure Data. Accepted by Journal of the Royal Statistical Society:Series C (Applied Statistics)
+- Xun Xiao, Zhisheng Ye, Matthew Revie (2024), Learning Local Cascading Failure Pattern from Massive Network Failure Data. Accepted by Journal of the Royal Statistical Society:Series C (Applied Statistics)
 - Chenglong Li, **Xun Xiao** (2023) On Censoring Time in Statistical Monitoring of Lifetime Data. Technometrics 65(3), 418-431
 - <u>Gao, Zhanzhongyu</u>, Xun Xiao, Yi-Ping Fang, Jing Rao, and Huadong Mo (2024) A Selective Review on Information Criteria in Multiple Change Point Detection. Entropy 26(1), 50.
 - Xun Xiao, Piao Chen, Zhisheng Ye, Kwok-Leung Tsui (2021) On Computing Multiple Change Points for Gamma Distribution. Journal of Quality Technology 53(3), 267-288
