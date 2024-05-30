@@ -32,13 +32,16 @@ Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+<!---   <ul>{% for post in site.publications reversed %} --->
+<!---     {% include archive-single-cv.html %} --->
+<!---   {% endfor %}</ul> --->
   
 Talks
 ======
+
 To be updated
+
 <!--- <ul>{% for post in site.talks reversed %} --->
 <!---   {% include archive-single-talk-cv.html  %} --->
 <!---  {% endfor %}</ul> --->
@@ -46,10 +49,11 @@ To be updated
 Teaching
 ======
 
- <ul>{% for post in site.teaching reversed %}
-   {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+ {% endfor %}</ul>
   
 Service and leadership
 ======
 *  Convenor of Otago Statistics Seminars
+*  Committee Member of Otago Chinese Professionals Association
