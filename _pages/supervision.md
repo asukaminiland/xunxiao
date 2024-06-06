@@ -5,11 +5,11 @@ permalink: /supervision/
 author_profile: true
 ---
 
-Click the following link to see my PhD, Master and Honour student! 
+Here are my PhD, Master and Honour students! 
 
-{% include base_path %} 
+<--- {% include base_path %} --->
 
-{% for post in site.portfolio reversed%}
-   {% include archive-single.html %}
- {% endfor %}
+<---{% for post in site.portfolio reversed%} --->
+<---   {% include archive-single.html %} --->
+<--- {% endfor %} --->
 
