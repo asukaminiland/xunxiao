@@ -43,8 +43,8 @@ PhD students (co-)advised by me with **their name** bolded
 -	**Gabriele F. Porta**, Mark Bebbington, Xun Xiao, Geoff Jones (2020) Bayesian Lifetime Analysis for Landslide Dams. **Landslides** 17(8), 1835-1848
 
 ## Veterinary Science
-- D Aaron Yang, Xun Xiao, Ping Jiang, Dirk U Pfeiffer, Richard A Laven (2022) Keeping Continuous Diagnostic Data Continuous: Application of Bayesian Latent Class Models in Veterinary Research. **Preventive Veterinary Medicine** 201, 105596
 - Alex S Chen, Xun Xiao, D Aaron Yang (2024) A Bayesian Finite Mixture Model Approach to Evaluate Dichotomization Methods for Correlated ELISA Tests. **Preventive Veterinary Medicine** 225, 106144
+- D Aaron Yang, Xun Xiao, Ping Jiang, Dirk U Pfeiffer, Richard A Laven (2022) Keeping Continuous Diagnostic Data Continuous: Application of Bayesian Latent Class Models in Veterinary Research. **Preventive Veterinary Medicine** 201, 105596
 
 ## Food Science
 - Xun Xiao, Mo Li (2022) Fusion of Data-driven Model and Mechanistic Model for Kiwifruit Flesh Firmness Prediction. **Computers and Electronics in Agriculture** 193, 106651.
