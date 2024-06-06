@@ -3,9 +3,11 @@ title: "At Massey"
 collection: teaching
 permalink: /teaching/massey
 venue: "Massey University"
-date: 2017-2021
+date: 2017-02-02
 location: "Palmerston North"
 ---
+
+2017-2021
 
 * Undergraduate level 
 
