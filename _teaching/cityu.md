@@ -3,10 +3,11 @@ title: "At CityU"
 collection: teaching
 permalink: /teaching/cityu
 venue: "City University of Hong Kong"
-date: 2012-2015
+date: 2012-01-01
 location: "Hong Kong"
 ---
 
+2012-2015
 
 * Undergraduate level
 
