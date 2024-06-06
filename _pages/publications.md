@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-PhD students (co-)advised by me with **name** bolded
+PhD students (co-)advised by me with **their name** bolded
 
 ## Industrial Statistics
 - Xun Xiao, Zhisheng Ye, Matthew Revie (2024), Learning Local Cascading Failure Pattern from Massive Network Failure Data. Accepted by **Journal of the Royal Statistical Society:Series C (Applied Statistics)**
