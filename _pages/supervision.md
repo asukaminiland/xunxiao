@@ -47,9 +47,9 @@ Honours Student Completed
   - Supervisors: A/Prof Ting Wang 	Dr. Xun Xiao 
   - Topic: Modelling football event data via marked spatio-temporal point processes 
 
-<--- {% include base_path %} --->
+<!-- {% include base_path %} -->
 
-<---{% for post in site.portfolio reversed%} --->
-<---   {% include archive-single.html %} --->
-<--- {% endfor %} --->
+<!--{% for post in site.portfolio reversed%} -->
+<!--   {% include archive-single.html %} -->
+<!-- {% endfor %} -->
 
