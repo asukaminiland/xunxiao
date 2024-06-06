@@ -33,17 +33,22 @@ Publications
 ======
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 <!---   <ul>{% for post in site.publications reversed %} --->
 <!---     {% include archive-single-cv.html %} --->
 <!---   {% endfor %}</ul> --->
-  
+
+Supervision
+======
+
+See Supervision Page...
+
 Talks
 ======
 
-To be updated
+To be updated!
 
 <!--- <ul>{% for post in site.talks reversed %} --->
 <!---   {% include archive-single-talk-cv.html  %} --->
@@ -52,13 +57,13 @@ To be updated
 Teaching
 ======
 
-To be updated
+See Teaching Page...
 
 <!--- <ul>{% for post in site.teaching reversed %}--->
 <!---  {% include archive-single-cv.html %}--->
 <!--- {% endfor %}</ul>--->
   
-Service and leadership
+Service and Leadership
 ======
 *  Convenor of Otago Statistics Seminars
 *  Committee Member of Otago Chinese Professionals Association
