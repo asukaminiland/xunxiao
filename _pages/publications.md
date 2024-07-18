@@ -15,7 +15,7 @@ PhD students (co-)advised by me with **their name** bolded
 - Piao Chen, Xun Xiao, Novel Closed-form Point Estimators for the Beta Distribution. Submitted to **Statistical Theory and Related Fields**
 - **Zhanzhongyu Gao**, Xun Xiao, Huadong Mo, Daoyi Dong, A Physics-informed Power Curve Model for Wind Turbine Condition Monitoring. Submitted to **IEEE Transactions on Instrumentation & Measuremen**
 - Kai Li, Yi Luo, Xiujie Zhao, Xun Xiao, Condition-based Maintenance Strategy for Dynamic Mission-oriented Systems. Submitted to **Reliability Engineering & System Safety**
-- Michael Jack, Pablo Paulsen, Xun Xiao, Rafferty Parker, Daniel Myall, Seasonal electricity demand of future electric vehicle fleets. Reject and Resubmit for **Applied Energy**
+- Michael Jack, Pablo Paulsen, Xun Xiao, Rafferty Parker, Daniel Myall, Seasonal Electricity Demand of Future Electric Vehicle Fleets. Reject and Resubmit for **Applied Energy**
 
 ## Industrial Statistics
 - Xun Xiao, Zhisheng Ye, Matthew Revie (2024), Learning Local Cascading Failure Pattern from Massive Network Failure Data. Accepted by **Journal of the Royal Statistical Society:Series C (Applied Statistics)**
