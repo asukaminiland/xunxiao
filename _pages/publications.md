@@ -12,9 +12,10 @@ author_profile: true
 PhD students (co-)advised by me with **their name** bolded
 
 ## Working Paper
-- Piao Chen, Xun Xiao, Novel Closed-form Point Estimators for the Beta Distribution. Submitted to **Statistical Theory and Related Fields**
-- **Zhanzhongyu Gao**, Xun Xiao, Huadong Mo, Daoyi Dong, A Physics-informed Power Curve Model for Wind Turbine Condition Monitoring. Submitted to **IEEE Transactions on Instrumentation & Measurement**
+- Piao Chen, Xun Xiao, Novel Closed-form Point Estimators for the Beta Distribution. Accepted by **Statistical Theory and Related Fields**
+- **Zhanzhongyu Gao**, Xun Xiao, Huadong Mo, Daoyi Dong, A Physics-informed Power Curve Model for Wind Turbine Condition Monitoring. Submitted to **IEEE Transactions on Industrial Informatics**
 - Kai Li, Yi Luo, Xiujie Zhao, Xun Xiao, Condition-based Maintenance Strategy for Dynamic Mission-oriented Systems. Submitted to **Reliability Engineering & System Safety**
+- Peng Li, Xun Xiao, Jiayu Chen, Estimating mean time to failure of solid-state drives via self-organizing map and model averaging. Submitted to **IEEE Transactions on Reliability**
 - Michael Jack, Pablo Paulsen, Xun Xiao, Rafferty Parker, Daniel Myall, Seasonal Electricity Demand of Future Electric Vehicle Fleets. Reject and Resubmit for **Applied Energy**
 
 ## Industrial Statistics
